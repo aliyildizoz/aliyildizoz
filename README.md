@@ -30,4 +30,8 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React’ta redux ile middleware kullanımı ve redux-thunk.](https://medium.com/software-development-turkey/reactta-redux-ile-middleware-kullan%C4%B1m%C4%B1-ve-redux-thunk-d46445f7b9c6?source=rss-a62137e94030------2)
+- [React’ta redux nasıl ve neden kullanılır ?](https://medium.com/software-development-turkey/reactta-redux-nas%C4%B1l-ve-neden-kullan%C4%B1l%C4%B1r-f8e14ff1fdbc?source=rss-a62137e94030------2)
+- [Redux nedir ve neden kullanılır ?](https://medium.com/software-development-turkey/redux-nedir-ve-neden-kullan%C4%B1l%C4%B1r-68153ad3adfb?source=rss-a62137e94030------2)
+- [Micro ORM‘lerin Kralı- Dapper Nedir?](https://medium.com/software-development-turkey/micro-orm-lerin-kral%C4%B1-dapper-nedir-ec5838b115ac?source=rss-a62137e94030------2)
 <!-- BLOG-POST-LIST:END -->
