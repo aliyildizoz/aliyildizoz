@@ -6,13 +6,13 @@
 
 
 - 🔭 I’m working as Full Stack and Backend Developer
-- 👨‍💻 All of my projects are available at [projects](aliyildizoz909.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [projects](https://aliyildizoz909.github.io/projects.html)
 
-- 📝 I regularly write articles on [@aliyildizoz909](medium.com/@aliyildizoz909)
+- 📝 I regularly write articles on [@aliyildizoz909](https://medium.com/@aliyildizoz909)
 
 - 📫 How to reach me **aliyildizoz909@gmail.com**
 
-- 📄 Know about my experiences [CV](aliyildizoz909.github.io/cv.html)
+- 📄 Know about my experiences [CV](https://aliyildizoz909.github.io/cv.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
