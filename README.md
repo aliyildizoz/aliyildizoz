@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m working as Full Stack and Backend Developer
-- 👨‍💻 All of my projects are available at [aliyildizoz909.github.io](https://aliyildizoz909.github.io/projects.html)
+- 👨‍💻 You can see all my projects on [aliyildizoz909.github.io](https://aliyildizoz909.github.io/projects.html)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@aliyildizoz909)
 
