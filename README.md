@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ali</h1>
 <h4 align="left">I am a Software Engineering student.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyildizoz909&label=Profile%20views&color=0e75b6&style=flat" alt="aliyildizoz909" /> </p>
 
 
 
