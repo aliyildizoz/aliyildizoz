@@ -1,8 +1,4 @@
 <h1 align="left">Hi 👋, I'm Ali</h1>
-<h4 align="left">I am a Software Engineering student.</h4>
-
-
-
 
 - 🔭 I’m working as Full Stack and Backend Developer
 - 👨‍💻 You can see all my projects on [aliyildizoz909.github.io](https://aliyildizoz909.github.io/projects.html)
