@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋, I'm Ali</h1>
 
 - 🔭 I’m working as Full Stack and Backend Developer
-- 👨‍💻 You can see all my projects on [aliyildizoz909.github.io](https://aliyildizoz909.github.io/projects.html)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@aliyildizoz909)
 
 - 📫 How to reach me **aliyildizoz909@gmail.com**
 
-- 📄 Know about my experiences [CV](https://aliyildizoz909.github.io/cv.html)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
