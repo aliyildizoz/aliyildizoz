@@ -2,7 +2,7 @@
 
 - 🔭 I’m working as Full Stack and Backend Developer
 
-- 📝 I regularly write articles on [medium](https://medium.com/@aliyildizoz909)
+- 📝 I regularly write articles on [medium](https://medium.com/@aliyildizoz)
 
 - 📫 How to reach me **aliyildizoz909@gmail.com**
 
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ali-yildizoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-yildizoz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12592580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12592580" height="30" width="40" /></a>
-<a href="https://medium.com/@aliyildizoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliyildizoz909" height="30" width="40" /></a>
+<a href="https://medium.com/@aliyildizoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliyildizoz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
