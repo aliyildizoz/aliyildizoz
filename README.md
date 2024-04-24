@@ -23,9 +23,9 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker-Compose for Asp.Net Core &amp; MSSQL](https://medium.com/@aliyildizoz/docker-compose-for-asp-net-core-mssql-4ee8317d3b87?source=rss-a62137e94030------2)
 - [Understanding Asp.Net Core Dockerfile](https://medium.com/@aliyildizoz/understanding-asp-net-core-dockerfile-a523233bb9a4?source=rss-a62137e94030------2)
 - [Capacitor ile Hibrit uygulama geliştirme](https://medium.com/software-development-turkey/capacitor-ile-hibrit-uygulama-gelistirme-1b7425df3377?source=rss-a62137e94030------2)
 - [Active Record Pattern Nedir ?](https://medium.com/software-development-turkey/active-record-pattern-nedir-46bcf33c8b91?source=rss-a62137e94030------2)
 - [React’ta redux ile middleware kullanımı ve redux-thunk.](https://medium.com/software-development-turkey/reactta-redux-ile-middleware-kullan%C4%B1m%C4%B1-ve-redux-thunk-d46445f7b9c6?source=rss-a62137e94030------2)
-- [React’ta redux nasıl ve neden kullanılır ?](https://medium.com/software-development-turkey/reactta-redux-nas%C4%B1l-ve-neden-kullan%C4%B1l%C4%B1r-f8e14ff1fdbc?source=rss-a62137e94030------2)
 <!-- BLOG-POST-LIST:END -->
