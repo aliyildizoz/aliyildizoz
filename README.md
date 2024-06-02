@@ -21,9 +21,9 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker-Compose for Asp.Net Core &amp; Redis](https://blog.devops.dev/docker-compose-for-asp-net-core-redis-b739b9242765?source=rss-a62137e94030------2)
 - [Docker-Compose for Asp.Net Core &amp; RabbitMQ](https://blog.devops.dev/docker-compose-for-asp-net-core-rabbitmq-d532125b1cec?source=rss-a62137e94030------2)
 - [Docker-Compose for Asp.Net Core &amp; MSSQL](https://medium.com/@aliyildizoz/docker-compose-for-asp-net-core-mssql-4ee8317d3b87?source=rss-a62137e94030------2)
 - [Understanding Asp.Net Core Dockerfile](https://medium.com/@aliyildizoz/understanding-asp-net-core-dockerfile-a523233bb9a4?source=rss-a62137e94030------2)
 - [Capacitor ile Hibrit uygulama geliştirme](https://medium.com/software-development-turkey/capacitor-ile-hibrit-uygulama-gelistirme-1b7425df3377?source=rss-a62137e94030------2)
-- [Active Record Pattern Nedir ?](https://medium.com/software-development-turkey/active-record-pattern-nedir-46bcf33c8b91?source=rss-a62137e94030------2)
 <!-- BLOG-POST-LIST:END -->
