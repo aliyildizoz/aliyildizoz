@@ -16,7 +16,8 @@
 </p>
 
 
-<p><img align="left" style="width:330px;display: inline; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyildizoz&show_icons=true&locale=en&layout=compact" alt="aliyildizoz" /> <img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=aliyildizoz&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="aliyildizoz" /></p>
+<p><img align="left" style="width:330px;display: inline; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyildizoz&show_icons=true&locale=en&layout=compact" alt="aliyildizoz" /> <img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=aliyildizoz" alt="aliyildizoz"/></p>
+
 
 
 ### Latest Blog posts
